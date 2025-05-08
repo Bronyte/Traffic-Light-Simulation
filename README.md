@@ -11,3 +11,5 @@ The main components of the code are:
   + The Graphics Class to draw the corresponding shapes and colors.
   + Timer control set
   + The Timer_Tick Event Handler that cycles through the various light states.
+
+![image](https://github.com/user-attachments/assets/8c99a1fb-728b-4fce-a7c4-078e01ff72fa)
